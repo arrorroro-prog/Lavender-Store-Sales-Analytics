@@ -41,3 +41,4 @@ The factory's monthly human resource overhead is systematically managed across a
 
 ---
 *Developed with precision by Data Analyst: **Ruba*** 👩‍💻✨
+[📊Click Here to View the Live Interactive Lavender Sales Dashboard](https://datastudio.google.com/reporting/4a9bbf03-2a59-4adb-8ddf-8825561de5bc)
