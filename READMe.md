@@ -8,7 +8,6 @@ This repository serves as a detached, standalone data analytics project tailored
 ---
 
 ## 🚀 Live Interactive Dashboard
-🔗 **[📊 Click Here to View the Live Interactive Lavender Sales Dashboard](ضعّي_رابط_لوحة_LOOKER_STUDIO_الذي_نسختيه_هنا)**
 
 *Note: The dashboard is built using Google Looker Studio, connected dynamically to an automated backend spreadsheet, enabling real-time performance tracking.*
 
