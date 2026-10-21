@@ -8,6 +8,8 @@ This repository serves as a detached, standalone data analytics project tailored
 ---
 
 ## 🚀 Live Interactive Dashboard
+*Developed with precision by Data Analyst: **Ruba*** 👩‍💻✨
+[📊Click Here to View the Live Interactive Lavender Sales Dashboard](https://datastudio.google.com/reporting/4a9bbf03-2a59-4adb-8ddf-8825561de5bc)
 
 *Note: The dashboard is built using Google Looker Studio, connected dynamically to an automated backend spreadsheet, enabling real-time performance tracking.*
 
@@ -39,5 +41,3 @@ The factory's monthly human resource overhead is systematically managed across a
 3. **GitHub:** Clean version control repository isolating BI solutions from backend automation agents.
 
 ---
-*Developed with precision by Data Analyst: **Ruba*** 👩‍💻✨
-[📊Click Here to View the Live Interactive Lavender Sales Dashboard](https://datastudio.google.com/reporting/4a9bbf03-2a59-4adb-8ddf-8825561de5bc)
